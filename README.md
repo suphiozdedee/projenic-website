@@ -3,12 +3,12 @@
 Ajans tarzı Projenic web sitesi.
 
 ## Yapı
-- `index.html` — Ana sayfa
-- `style.css` — Stiller
-- `assets/images/` — Proje ve atölye görselleri
+- `index.html`
+- `style.css`
+- `assets/images/` — sıkıştırılmış görseller
 
-### Görselleri ekleme
-Görseller büyük binary dosyalar olduğu için buraya tek tek yüklenemedi. 
-`projenic-site.tar.gz` içindeki `assets/images/` klasörünü bu repoya sürükle-bırak ile yükleyebilirsiniz (GitHub web arayüzünden).
+### Görseller
+Görseller sıkıştırıldı (yaklaşık 100-165 KB). 
+Tam siteyi (görsellerle birlikte) yüklemek için `projenic-site-compressed.tar.gz` dosyasını indirip içindeki `assets/images/` klasörünü bu repoya sürükle-bırak ile yükleyebilirsiniz.
 
-Site koyu temalı, ajans havasında kurgulanmıştır. Canlıya alma için Hostinger veya Netlify/Vercel kullanılabilir.
+Site koyu temalı, ajans havasında.
